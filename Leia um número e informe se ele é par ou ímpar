@@ -1,0 +1,2 @@
+n = int(input("\n4) Digite um número: "))
+print("Par" if n % 2 == 0 else "Ímpar")
