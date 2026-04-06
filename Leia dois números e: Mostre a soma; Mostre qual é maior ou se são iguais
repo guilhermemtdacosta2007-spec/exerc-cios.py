@@ -1,0 +1,3 @@
+a = int(input("\n12) Número 1: "))
+b = int(input("Número 2: "))
+print("Maior:", max(a, b))
