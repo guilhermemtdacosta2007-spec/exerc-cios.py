@@ -1,0 +1,6 @@
+a = int(input("\n19) Número 1: "))
+b = int(input("Número 2: "))
+if a == b:
+    print("Iguais")
+else:
+    print("Diferença:", abs(a - b))
