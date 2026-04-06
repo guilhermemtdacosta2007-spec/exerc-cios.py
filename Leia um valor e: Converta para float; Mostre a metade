@@ -1,0 +1,2 @@
+n = float(input("\n9) Digite um número: "))
+print("Metade:", n / 2)
