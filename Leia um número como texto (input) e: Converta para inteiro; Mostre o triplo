@@ -1,0 +1,3 @@
+n = float(input("\n5) Digite um número: "))
+n = int(n)
+print("Triplo:", n * 3)
