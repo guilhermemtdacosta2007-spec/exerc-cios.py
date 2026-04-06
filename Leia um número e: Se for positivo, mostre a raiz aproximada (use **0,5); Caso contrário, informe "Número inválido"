@@ -1,0 +1,5 @@
+n = float(input("\n8) Digite um número: "))
+if n >= 0:
+    print("Raiz:", n ** 0.5)
+else:
+    print("Número inválido")
