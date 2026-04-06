@@ -1,0 +1,5 @@
+n = float(input("\n16) Digite um valor: "))
+if n >= 0:
+    print("Quadrado:", n ** 2)
+else:
+    print("Número inválido")
