@@ -1,0 +1,5 @@
+n = int(input("\n13) Digite um número: "))
+if n > 100:
+    print("Metade:", n / 2)
+else:
+    print("Dobro:", n * 2)
